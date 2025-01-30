@@ -17,4 +17,9 @@ internal class Smiley
     {
         Console.WriteLine(":(");
     }
+
+    public static void Boared()
+    {
+        Console.WriteLine(":|");
+    }
 }
